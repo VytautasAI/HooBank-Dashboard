@@ -23,7 +23,7 @@ This repository contains a modern landing page developed with **Vite** and **Tai
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VytautasAI/modern-website-tailwind.git
+   git clone https://github.com/VytautasAI/HooBank-Dashboard.git
    ```
 2. Navigate to the project folder:
    ```bash
